@@ -1,0 +1,109 @@
+.logo img{
+    width: 100px;
+}
+.textA h1{
+    padding: 0 30px;
+}
+.textA p{
+    padding: 0 30px;
+}
+.buttons{
+    flex-direction: column;
+}
+.green{
+    margin-bottom: 20px;
+    width: 250px;
+    margin-right: 0;
+}
+.blue{
+    margin: 0;
+    width: 250px;
+}
+.next{
+    margin-top: 350px;
+}
+.second{
+    flex-direction: column;
+}
+.left img{
+    width: 80%;
+    margin-left: 40px;
+}
+.right{
+    margin-left: 15px;
+}
+.right .text{
+    text-align: center;
+}
+.next2 img{
+    width: 100%;
+    margin-left: 0;
+}
+.textB{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.textB h3{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.textB p{
+    text-align: center;
+    padding: 0;
+    padding-top: 20px;
+    margin: 0;
+}
+.lists{
+    flex-direction: column;
+    margin-left: 0;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.uniqu2,
+.uniqu3,
+.unique,
+.middle-p {
+        padding: 0;
+        margin: 0 ;
+}
+.textB img{
+    margin-left: 0;
+    margin-top: 70px;
+}
+.listsB{
+    flex-direction: column;
+    margin-left: 0;
+}
+.listsB img{
+    margin-right: 0;
+    margin-top: 60px;
+}
+footer{
+    flex-direction: column;
+    height: 430px;
+    padding-left: 0;
+}
+.tags{
+    display: flex;
+    flex-direction: column;
+}
+.tags ul{
+    text-align: center;
+    margin-right: 0;
+}
+.logo-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.socials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
